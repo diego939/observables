@@ -1,0 +1,11 @@
+{
+    "Personas": [
+        {
+            "id_persona": 1,
+            "nombres": "Diego David",
+            "apellidos": "Almirón",
+            "profesion": "Desarrollador fullstack con java",
+            "telefono": "3795315483"
+        }
+    ]
+}
